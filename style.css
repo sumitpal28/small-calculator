@@ -1,0 +1,56 @@
+*{
+    padding : 0px;
+    margin : 0px;
+}
+
+#container{
+    height :10rem;
+    width : 20rem;
+    border: 2px solid black;
+    margin-top : 10rem;
+    margin-left : 33rem;
+    padding-left : 2rem;
+    padding-right : 2rem;
+    background-color: aqua;
+    
+    
+}
+.inpo{
+    height : 2rem;
+    width : 4rem;
+    margin-top : 1rem;
+    text-align: center;
+
+    
+
+}
+
+.btn{
+    width : 2rem;
+    height : 2rem;
+}
+
+#buttons{
+    margin-top : 1.5rem;
+}
+
+#div{
+    margin-left : 15rem;
+    margin-top : -04rem;
+    border : 1px solid black;
+    
+    height : 2rem;
+    width : 4rem;
+    text-align: center;
+    margin-right : 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+
+}
+
+#icon{
+    margin-left : 11rem;
+    
+}
